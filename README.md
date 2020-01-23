@@ -1,4 +1,4 @@
-Breast Cancer Prediction
+BREAST CANCER PREDDICTION (KNN ALGORITHM)
 
 Used machine learning methods to construct and analyse the performance of some selected algorithms for breast cancer diagnosis. 
 K-Nearest Neighbour (KNN) algorithm was used for the diagnosis of Wisconsin Dataset. The precision, recall, accuracy, sensitivity, specificity was found. 
